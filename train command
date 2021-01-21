@@ -1,0 +1,3 @@
+python train.py --batch_size 8 --dataset /Users/oscar/Documents/repositories/mask-detection/tfrecord/mask-train.tfrecord \
+--val_dataset /Users/oscar/Documents/repositories/mask-detection/tfrecord/mask-val.tfrecord --epochs 4 --mode fit --transfer none \
+-classes=/Users/oscar/Documents/repositories/mask-detection/data/voc2012.names  --num_classes=3
