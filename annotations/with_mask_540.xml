@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>with_mask_540.jpg</filename>
+	<path>/Users/oscar/Documents/repositories/mask-detection/JPEGImages/with_mask_540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>147</width>
+		<height>149</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>76</ymin>
+			<xmax>132</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

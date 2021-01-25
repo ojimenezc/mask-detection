@@ -1,1 +1,0 @@
-python train.py --batch_size 8 --dataset /home/ubuntu/dataset/train/mask.tfrecord --val_dataset /home/ubuntu/dataset/valid/mask.tfrecord --epochs 4 --mode fit --transfer none --classes=/home/ubuntu/VOC2012/voc2012.names  --num_classes=3
