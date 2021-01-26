@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100</folder>
+	<filename>26065_Mask_Nose_Mouth.jpg</filename>
+	<path>/Users/macbookpro/ml-env/ProyectoFinal/Proyecto/nuevo/jpg/nomask/100/26065_Mask_Nose_Mouth.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>238</ymin>
+			<xmax>321</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

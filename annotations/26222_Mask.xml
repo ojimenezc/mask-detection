@@ -1,0 +1,26 @@
+<annotation>
+	<folder>300</folder>
+	<filename>26222_Mask.jpg</filename>
+	<path>/Users/macbookpro/ml-env/ProyectoFinal/Proyecto/nuevo/jpg/300/26222_Mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>216</ymin>
+			<xmax>329</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
